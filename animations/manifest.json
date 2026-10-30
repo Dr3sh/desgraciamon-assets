@@ -1,0 +1,11 @@
+﻿{
+  "version": 1,
+  "animations": [
+    {
+      "name": "testgithub",
+      "url": "https://raw.githubusercontent.com/Dr3sh/desgraciamon-assets/main/animations/testgithub.zip",
+      "hash": "ac04f3a9fa95689925bb0ff1e2e56e4b8af877b90ac96b76de6272a8b1b9aaa2",
+      "sizeBytes": 3704347
+    }
+  ]
+}
