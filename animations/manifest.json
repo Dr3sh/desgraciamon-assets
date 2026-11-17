@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "animations": [
     {
       "name": "testgithub",
@@ -12,6 +12,12 @@
       "url": "https://raw.githubusercontent.com/Dr3sh/desgraciamon-assets/main/animations/inicio.mp4",
       "hash": "87d51738729c88952b580280eb80c1ac0ad01ef142ac0697e105177f9189c244",
       "sizeBytes": 1071513
+    },
+    {
+      "name": "test2",
+      "url": "https://raw.githubusercontent.com/Dr3sh/desgraciamon-assets/main/animations/test2.mp4",
+      "hash": "2458e11818142ac04e8fd81fa10f18be82fec4f0cce7b12ed270a01a6b40c982",
+      "sizeBytes": 5653068
     }
   ]
 }
