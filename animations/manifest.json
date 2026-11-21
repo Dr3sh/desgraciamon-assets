@@ -1,4 +1,11 @@
 {
-  "version": 6,
-  "animations": []
+  "version": 7,
+  "animations": [
+    {
+      "name": "1119",
+      "url": "https://raw.githubusercontent.com/Dr3sh/desgraciamon-assets/main/animations/1119.mp4",
+      "hash": "2481a2a3f5724bfbc3ceb9c09ba222dd29949fdcc98222c320ca1843f33d6452",
+      "sizeBytes": 48520201
+    }
+  ]
 }
